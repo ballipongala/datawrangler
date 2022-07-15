@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "git": "^0.1.5"
+  },
+  "name": "datawrangler",
+  "homepage": "https://ballipongala.github.io/datawrangler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
